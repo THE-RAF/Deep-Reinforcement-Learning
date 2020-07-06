@@ -1,3 +1,3 @@
 # Reinforcement-Learning
 
-Implementations of Reinforcement Learning algorithms.
+Implementation of Reinforcement Learning algorithms.
