@@ -1,3 +1,3 @@
-# Deep-Reinforcement-Learning
+# Reinforcement-Learning
 
-Implementations of Deep Reinforcement Learning algorithms.
+Implementations of Reinforcement Learning algorithms.
