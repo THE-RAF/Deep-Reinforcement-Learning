@@ -48,6 +48,6 @@ scores = agent.train(env, n_episodes=300, render=False)
 plt.plot(scores)
 plt.show()
 
-agent.train(env, n_episodes=100, render=True)
+agent.train(env, n_episodes=10, render=True)
 
 env.close()
